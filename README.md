@@ -100,12 +100,11 @@ Certifications
 Publications
 ------------
 **SANS GIAC Gold Papers:**
-[GPYC] <br>
 [GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
 [GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
 **HP Protect Conference Presentations:**
-[Extraction and Long Term Storage of ArcSight EMS Connector Statistics] (https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485274053370/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_featured%3BJXxt%2FueETay%2FrBcFwDB%2Few%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_self_edit_featured-featured_item_detail_view) <br>
+[Extraction and Long Term Storage of ArcSight EMS Connector Statistics](https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485274053370/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BodgOpSAwRuaCR8AgeWqcVA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view) <br>
 [Leveraging Advanced Persisten Threat (APT) Threat Indicator Feeds with Enterprise ESM](https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485273990955) <br>
 
 Education
