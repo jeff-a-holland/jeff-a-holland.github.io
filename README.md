@@ -108,7 +108,6 @@ Publications
 [Extraction and Long Term Storage of ArcSight EMS Connector Statistics] (https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485274053370/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_featured%3BJXxt%2FueETay%2FrBcFwDB%2Few%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_self_edit_featured-featured_item_detail_view) <br>
 [Leveraging Advanced Persisten Threat (APT) Threat Indicator Feeds with Enterprise ESM](https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485273990955) <br>
 
-
 Education
 ---------
 **Master of Science (M.S.), Mathematics, New Mexico State University (2006)
