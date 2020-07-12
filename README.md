@@ -104,14 +104,14 @@ Publications
 [GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
 **HP Protect Conference Presentations:**
-[Extraction and Long Term Storage of ArcSight EMS Connector Statistics](https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485274053370/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BodgOpSAwRuaCR8AgeWqcVA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view) <br>
+[Extraction and Long Term Storage of ArcSight EMS Connector Statistics](https://www.dropbox.com/s/zpwyyddya847q01/Extraction%20and%20long-term%20storage%20of%20HP%20ArcSight%20ESM%20Connector%20statistics.pdf?dl=0) <br>
 [Leveraging Advanced Persisten Threat (APT) Threat Indicator Feeds with Enterprise ESM](https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485273990955) <br>
 
 Education
 ---------
-**Master of Science (M.S.), Mathematics, New Mexico State University (2006)
+**Master of Science (M.S.), Mathematics, New Mexico State University (2006)**
 - Coursework in Algebra, Real and Complex Analysis, Statistics, Linear Programming
 - Emphasis in Linear Programming and Optimization
 
-**Bachelor of Science (B.S), Mathematics, California State University, San Marcos (2004)
+**Bachelor of Science (B.S), Mathematics, California State University, San Marcos (2004)**
 - Coursework in Algebra, Analysis, Discrete Mathematics, Statistics and Probability, Number Theory, C Programming, Unix
