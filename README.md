@@ -99,13 +99,12 @@ Certifications
 
 Publications
 ------------
-**SANS GIAC Gold Papers:**
+**SANS GIAC Gold Papers:**<br>
 [GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
 [GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
 **HP Protect Conference Presentations:**
 [Extraction and Long Term Storage of ArcSight EMS Connector Statistics](https://www.dropbox.com/s/zpwyyddya847q01/Extraction%20and%20long-term%20storage%20of%20HP%20ArcSight%20ESM%20Connector%20statistics.pdf?dl=0) <br>
-[Leveraging Advanced Persisten Threat (APT) Threat Indicator Feeds with Enterprise ESM](https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485273990955) <br>
 
 Education
 ---------
