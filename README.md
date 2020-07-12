@@ -1,4 +1,4 @@
-**->RESUME<-**
+*RESUME*
 
 Jeff Holland - GPYC, GCUX, CISSP
 ================================
