@@ -1,5 +1,3 @@
-*RESUME*
-
 Jeff Holland - GPYC, GCUX, CISSP
 ================================
 
@@ -8,15 +6,15 @@ Jeff Holland - GPYC, GCUX, CISSP
 
 Skills
 ------
-**Programming:** Python, Perl, Bash, RegEx
-**Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence
-**SOAR:** Palo Alto XSOAR
-**Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector
-**Cloud:** Amazon AWS, Microsoft Azure
-**SIEM:** QRadar, SumoLogic, ArcSight
-**Operating Systems:** Linux, Windows, Mac OSX
-**Networking:** TCP/IP, TCPDump
-**Misc:** Security Metrics (RSA Archer), Security Compliance Frameworks (ISO 27002, SOC2 Type II)
+**Programming:** Python, Perl, Bash, RegEx <br>
+**Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence <br>
+**SOAR:** Palo Alto XSOAR <br>
+**Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
+**Cloud:** Amazon AWS, Microsoft Azure <br>
+**SIEM:** QRadar, SumoLogic, ArcSight <br>
+**Operating Systems:** Linux, Windows, Mac OSX <br>
+**Networking:** TCP/IP, TCPDump <br>
+**Misc:** Security Metrics (RSA Archer), Security Compliance Frameworks (ISO 27002, SOC2 Type II) <br>
 
 Work Experience
 ---------------
@@ -89,26 +87,26 @@ Software Developer
 
 Certifications
 --------------
-**CISSP* [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589)
-**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GCUX** [Current](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GCFE** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GPEN** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GCIA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GCIH** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GPPA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GSEC** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
+**CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589) <br>
+**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
+**GCUX** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
+**GCFE** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
+**GPEN** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
+**GCIA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
+**GCIH** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
+**GPPA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
+**GSEC** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
 
 Publications
 ------------
 **SANS GIAC Gold Papers:**
-[GPYC]
-[GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528)
-[GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528)
+[GPYC] <br>
+[GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
+[GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
 **HP Protect Conference Presentations:**
-[Extraction and Long Term Storage of ArcSight EMS Connector Statistics] (https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485274053370)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_featured%3BJXxt%2FueETay%2FrBcFwDB%2Few%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_self_edit_featured-featured_item_detail_view)
-[Leveraging Advanced Persisten Threat (APT) Threat Indicator Feeds with Enterprise ESM](https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485273990955)
+[Extraction and Long Term Storage of ArcSight EMS Connector Statistics] (https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485274053370/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_featured%3BJXxt%2FueETay%2FrBcFwDB%2Few%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_self_edit_featured-featured_item_detail_view) <br>
+[Leveraging Advanced Persisten Threat (APT) Threat Indicator Feeds with Enterprise ESM](https://www.linkedin.com/in/jeff-holland-0544a42/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAABtlUABbUIibSa2dVWUWeNZp6Od_Pu345I,1485273990955) <br>
 
 
 Education
