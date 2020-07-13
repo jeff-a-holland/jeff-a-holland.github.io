@@ -88,15 +88,15 @@ Software Developer
 
 Certifications
 --------------
-**CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589)
-**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528)
+**CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589) .
+**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) .
 **GCUX** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
-**GCFE** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GPEN** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GCIA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GCIH** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GPPA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
-**GSEC** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) 
+**GCFE** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
+**GPEN** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
+**GCIA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
+**GCIH** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
+**GPPA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
+**GSEC** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
 
 Publications
 ------------
