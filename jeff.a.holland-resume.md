@@ -28,6 +28,7 @@ Publications
 **SANS GIAC Gold Papers:**<br>
 [GCUX - Linux/UNIX Security Adminstration](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
 [GCIH - Hacker Exploits and Incident Handling](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
+[GCIA - Intrusion Detection](https://www.dropbox.com/s/pfavxreymt3b14r/Jeff_A_Holland_GCIA.pdf?dl=0) <br>
 
 **GitHub:**<br>
 [Chaining Vulnerability Scans in Tenable IO Using Python](https://github.com/jeff-a-holland/Chain.py-Tenable-IO-Chained-Scanning-Application/blob/master/documentation/Chaining_Vulnerability_Scans_in_Tenable_IO_Using_Python.md) <br>
