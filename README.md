@@ -2,7 +2,7 @@ Jeff Holland - GPYC, GCUX, CISSP
 ================================
 ### Security Architect - Orchestration and Automation (SOAR)
 
-###### [Resume](https://jeff-a-holland.github.io) . [GitHub Repo's](https://github.com/jeff-a-holland?tab=repositories) . jeff.a.holland@gmail.com
+###### [Resume](https://jeff-a-holland.github.io) - [GitHub Repo's](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
 
 Skills
 ------
@@ -88,20 +88,20 @@ Software Developer
 
 Certifications
 --------------
-**CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589) .
-**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) .
+**CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589) -
+**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) -
 **GCUX** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
-**GCFE** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
-**GPEN** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
-**GCIA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
-**GCIH** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
-**GPPA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) .
+**GCFE** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GPEN** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GCIA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GCIH** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GPPA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
 **GSEC** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
 
 Publications
 ------------
 **SANS GIAC Gold Papers:**<br>
-[GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) .
+[GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) -
 [GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
 **HP Protect Conference Presentations:**
