@@ -78,7 +78,7 @@ Sr. Security Engineer
 - Administered ArcSight ESM, including:
    - Writing custom connectors.
    - Adding new log feeds as new clients were on boarded.
-   - As part of a two-person project team, migrated a multi-TB EMS instance to new hardware using SQL and Perl scripts.
+   - As part of a two-person project team, migrated a multi-terabyte ArcSight ESM Oracle instance to new hardware using SQL and Perl scripts.
 
 
 **Northwestern University - Evanston, IL - (2007 - 2011)**
