@@ -25,7 +25,7 @@ Certifications
 Publications
 ------------
 **SANS GIAC Gold Papers:**<br>
-[GCUX - UNIX Security Adminstration](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
+[GCUX - Linux/UNIX Security Adminstration](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
 [GCIH - Hacker Exploits and Incident Handling](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
 **HP Protect Conference Presentations:**<br>
