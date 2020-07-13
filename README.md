@@ -67,12 +67,12 @@ Security Engineer
 - Interfaced with clients on security audits and questionnaires.
 - Worked with General Counsel on security-related initiatives.
 
-**HCSC, Chicago - IL - (2013 - 2014)**
+**HCSC (BC/BS of IL, TX, NM, OK, MT) - Chicago, IL - (2013 - 2014)**
 Security Architect (SIEM)
 - Security architect with enterprise responsibility for the ArcSight EMS deployment.
 - Wrote custom connector parsers, added new log feeds, interfaced with SOC team on SIEM updates and requests.
 
-**Leidos - Chicago, IL/San Diego, CA - (2011 - 2013)**
+**Leidos/SAIC - Chicago, IL/San Diego, CA - (2011 - 2013)**
 Sr. Security Engineer
 - Occasional consulting on ArcSight to clients of the MSSP business unit at Leidos.
 - Administered ArcSight ESM, including:
