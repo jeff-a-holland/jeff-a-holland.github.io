@@ -1,7 +1,7 @@
 Jeff Holland - Security Architect (SOAR)
 ================================
 
-#### [Resume](https://jeff-a-holland.github.io) - [GitHub Repo's](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
+#### [Resume](https://jeff-a-holland.github.io) - [LinkedIn](https://www.linkedin.com/in/jeff-holland-0544a42/) - [GitHub Repo's](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
 
 Skills
 ------
@@ -19,7 +19,7 @@ Skills
 Certifications
 --------------
 **CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589) -
-**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GPYC** [Current](https://www.giac.org/certified-pr]ofessional/jeff-holland/100528) -
 **GCUX** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
 
 Publications
