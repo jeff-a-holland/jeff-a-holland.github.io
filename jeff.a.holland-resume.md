@@ -26,7 +26,7 @@ Certifications
 Publications
 ------------
 **SANS GIAC Gold Papers:**<br>
-[GCUX - Linux/UNIX Security Administration](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
+[GCUX - Linux/UNIX Security Adminstration](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
 [GCIH - Hacker Exploits and Incident Handling](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
 **GitHub:**<br>
@@ -42,10 +42,10 @@ Work Experience
 Security Architect (SOAR)
 - Migrated on-prem Tenable SC to cloud-based Tenable IO. Utilized the Tenable IO REST API to fully automated creation, deletion and updates of all IO resources using Python playbooks for a global enterprise of 20,000+ assets and 200+ scan definitions.
 - Wrote Python scripts to pull vulnerability data from SC and IO, parse based on office location/application, and create tickets for system owners where the systems were in scope for ISO 27001. Application kept a state table to prevent duplication of tickets, and removed entries from the state table based on PluginID and IP address once the vulnerability was mitigated.
-- Wrote Python scripts to pull vulnerability data from SC and IO and report severity metrics for all repositories in the enterprise. Automated creation a quarterly report in Excel format using the Python Libary XLSXWriter.
+- Wrote Python scripts to pull vulnerability data from SC and IO and report severity metrics for all repositories in the enterprise. Automated creation of a quarterly report in Excel format using the Python Libary XLSXWriter.
 - Federated single-server IBM QRadar deployment to have multiple event processors across continents.
 - Created and maintained a security metrics schema for all security products in their native format. Metrics were parsed with Python scripts into the common schema and imported into RSA's Archer for visualization and analysis.
-- Mentored IR (Incident Response) analysts in their roles and on technologies such as Tenable IO/SC and IBM QRadar to servce as backup SME's (Subject Matter Experts).
+- Mentored IR (Incident Response) analysts in their roles and on technologies such as Tenable IO/SC and IBM QRadar to serve as backup SME's (Subject Matter Experts).
 
 **Civis Analytics - Chicago, IL - (Aug 2015 - Feb 2017)**
 Security Engineer
@@ -70,7 +70,7 @@ Security Engineer
 
 **HCSC (BC/BS of IL, TX, NM, OK, MT) - Chicago, IL - (2013 - 2014)**
 Security Architect (SIEM)
-- Security architect with enterprise responsibility for the ArcSight EMS deployment.
+- Security architect with enterprise responsibility for the ArcSight ESM deployment.
 - Wrote custom connector parsers, added new log feeds, interfaced with SOC team on SIEM updates and requests.
 
 **Leidos/SAIC - Chicago, IL/San Diego, CA - (2011 - 2013)**
@@ -85,7 +85,7 @@ Sr. Security Engineer
 **Northwestern University - Evanston, IL - (2007 - 2011)**
 Security Vulnerability Analyst
 - Created and operated the vulnerability analysis program used a resource to any University department that required assistance.
-- Wrote a custom threat intelligence application in Perl to use threat intelligence signatures and Netflow and NAC logs to identify malware infected host on campus.
+- Wrote a custom threat intelligence application in Perl to use threat intelligence signatures and Netflow/NAC logs to identify malware infected hosts on campus.
 
 **ArcSight, Chicago - IL/Cupertino, CA - (2005 - 2007)**
 Security Consultant
