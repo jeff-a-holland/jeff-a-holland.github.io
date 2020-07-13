@@ -104,10 +104,11 @@ Publications
 [GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) -
 [GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
-**HP Protect Conference Presentations:**
+**HP Protect Conference Presentations:**<br>
 [Extraction and Long Term Storage of ArcSight EMS Connector Statistics](https://www.dropbox.com/s/zpwyyddya847q01/Extraction%20and%20long-term%20storage%20of%20HP%20ArcSight%20ESM%20Connector%20statistics.pdf?dl=0) <br>
 
-**GitHub:**[Chaining Vulnerability Scans in Tenable IO Using Python](https://github.com/jeff-a-holland/Chain.py-Tenable-IO-Chained-Scanning-Application/blob/master/documentation/Chaining_Vulnerability_Scans_in_Tenable_IO_Using_Python.md) <br>
+**GitHub:**<br>
+[Chaining Vulnerability Scans in Tenable IO Using Python](https://github.com/jeff-a-holland/Chain.py-Tenable-IO-Chained-Scanning-Application/blob/master/documentation/Chaining_Vulnerability_Scans_in_Tenable_IO_Using_Python.md) <br>
 
 Education
 ---------
