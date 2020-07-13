@@ -1,7 +1,7 @@
 Jeff Holland - Security Architect (SOAR)
 ================================
 
-###### [Resume](https://jeff-a-holland.github.io) - [GitHub Repo's](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
+##### [Resume](https://jeff-a-holland.github.io) - [GitHub Repo's](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
 
 Skills
 ------
@@ -98,7 +98,7 @@ Network Engineer
 Sr. Security Engineer / Software Developer
 - Various security engineering duties to include:
    - Log analysis, intrusion detection, security architecture, security product evaluation
-- Software developer in the algorithms optimization group using C programming.
+- Software developer in the algorithms optimization group
 
 Education
 ---------
