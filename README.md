@@ -2,13 +2,14 @@ Jeff Holland - GPYC, GCUX, CISSP
 ================================
 
 #### Security Architect - Orchestration and Automation (SOAR)
-###### [ [jeff-a-holland.github.io](https://jeff-a-holland.github.io) ] . [ jeff.a.holland@gmail.com ]
+###### [ [jeff-a-holland.github.io](https://jeff-a-holland.github.io) ] . [GitHub](https://github.com/jeff-a-holland?tab=repositories) . [ jeff.a.holland@gmail.com ]
 
 Skills
 ------
 **Programming:** Python, Perl, Bash, RegEx <br>
 **Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence <br>
 **SOAR:** Palo Alto XSOAR <br>
+**EDR:** CarbonBlack (Response and Protect), SentinelOne <br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
 **Cloud:** Amazon AWS, Microsoft Azure <br>
 **SIEM:** QRadar, SumoLogic, ArcSight <br>
