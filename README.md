@@ -1,7 +1,7 @@
 Jeff Holland - Security Architect (SOAR)
 ================================
 
-##### [Resume](https://jeff-a-holland.github.io) - [GitHub Repo's](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
+#### [Resume](https://jeff-a-holland.github.io) - [GitHub Repo's](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
 
 Skills
 ------
