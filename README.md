@@ -28,6 +28,29 @@ Security Architect (SOAR)
 - Created and maintained a security metrics schema for all security products in their native format. Metrics were parsed with Python script into a common schema and imported into RSA's Archer for visualization.
 - Mentored IR (Incident Response) analysts in their roles and on technologies such as Tenable IO/SC and IBM QRadar to servce as backup SME's (Subject Matter Experts).
 
+Certifications
+--------------
+**CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589) -
+**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GCUX** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
+**GCFE** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GPEN** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GCIA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GCIH** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GPPA** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528) -
+**GSEC** [Expired](https://www.giac.org/certified-professional/jeff-holland/100528)
+
+Publications
+------------
+**SANS GIAC Gold Papers:**<br>
+[GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) -
+[GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
+
+**HP Protect Conference Presentations:**<br>
+[Extraction and Long Term Storage of ArcSight EMS Connector Statistics](https://www.dropbox.com/s/zpwyyddya847q01/Extraction%20and%20long-term%20storage%20of%20HP%20ArcSight%20ESM%20Connector%20statistics.pdf?dl=0) <br>
+
+**GitHub:**<br>
+[Chaining Vulnerability Scans in Tenable IO Using Python](https://github.com/jeff-a-holland/Chain.py-Tenable-IO-Chained-Scanning-Application/blob/master/documentation/Chaining_Vulnerability_Scans_in_Tenable_IO_Using_Python.md) <br>
 
 **Civis Analytics - Chicago, IL - (Aug 2015 - Feb 2017)**
 Security Engineer
