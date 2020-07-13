@@ -2,7 +2,7 @@ Jeff Holland - GPYC, GCUX, CISSP
 ================================
 
 #### Security Architect - Orchestration and Automation (SOAR)
-###### . [ [jeff-a-holland.github.io](https://jeff-a-holland.github.io) ]
+###### . [ [jeff-a-holland.github.io](https://jeff-a-holland.github.io)
        . [GitHub](https://github.com/jeff-a-holland?tab=repositories)
        . [ jeff.a.holland@gmail.com ]
 
