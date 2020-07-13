@@ -95,11 +95,9 @@ Network Engineer
 - Wrote custom code in Perl to automate the auditing of enterprise switches for switch-port to hostname assignments.
 
 **Raytheon - Garland, TX - (1996 - 2004)**
-Sr. Security engineer
+Sr. Security Engineer / Software Developer
 - Various security engineering duties to include:
    - Log analysis, intrusion detection, security architecture, security product evaluation
-
-Software Developer
 - Software developer in the algorithms optimization group using C programming.
 
 Education
