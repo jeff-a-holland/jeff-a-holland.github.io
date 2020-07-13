@@ -19,13 +19,13 @@ Skills
 Certifications
 --------------
 **CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589) -
-**GPYC** [Current](https://www.giac.org/certified-pr]ofessional/jeff-holland/100528) <br>
+**GPYC** [Current](https://www.giac.org/certified-pr]ofessional/jeff-holland/100528) -
 **GCUX** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
 
 Publications
 ------------
 **SANS GIAC Gold Papers:**<br>
-[GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) -
+[GCUX](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
 [GCIH](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 
 **HP Protect Conference Presentations:**<br>
