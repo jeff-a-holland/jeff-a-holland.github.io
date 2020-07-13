@@ -7,7 +7,7 @@ Skills
 ------
 **Programming:** Python, Perl, Bash, RegEx <br>
 **Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence <br>
-**SOAR:** Palo Alto XSOAR <br>
+**SOAR:** Palo Alto XSOAR (Demisto)<br>
 **Cloud:** Amazon AWS, Microsoft Azure <br>
 **SIEM:** QRadar, SumoLogic, ArcSight ESM, AlienVault <br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
@@ -42,7 +42,7 @@ Work Experience
 Security Architect (SOAR)
 - Migrated on-prem Tenable SC to cloud-based Tenable IO. Utilized the Tenable IO REST API to fully automated creation, deletion and updates of all IO resources using Python playbooks for a global enterprise of 20,000+ assets and 200+ scan definitions.
 - Wrote Python scripts to pull vulnerability data from SC and IO, parse based on office location/application, and create tickets for system owners where the systems were in scope for ISO 27001. Application kept a state table to prevent duplication of tickets, and removed entries from the state table based on PluginID and IP address once the vulnerability was mitigated.
-- Wrote Python scripts to pull vulnerability data from SC and IO and report severity metrics for all repositories in the enterprise. Automated creation of a quarterly report in Excel format using the Python Libary XLSXWriter.
+- Wrote Python scripts to pull vulnerability data from SC and IO and report severity metrics for all repositories in the enterprise. Automated creation of a quarterly report in Excel format using the Python Library XLSXWriter.
 - Federated single-server IBM QRadar deployment to have multiple event processors across continents.
 - Created and maintained a security metrics schema for all security products in their native format. Metrics were parsed with Python scripts into the common schema and imported into RSA's Archer for visualization and analysis.
 - Mentored IR (Incident Response) analysts in their roles and on technologies such as Tenable IO/SC and IBM QRadar to serve as backup SME's (Subject Matter Experts).
@@ -64,7 +64,7 @@ Security Engineer
 
 **Emmi Solutions - Chicago, IL - (2014 - 2015)**
 Security Engineer
-- Utilized Alienvalut SIEM and OSSEC to monitor network for incidents.
+- Utilized AlienVault SIEM and OSSEC to monitor network for incidents.
 - Interfaced with clients on security audits and questionnaires.
 - Worked with General Counsel on security-related initiatives.
 
