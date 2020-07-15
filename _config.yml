@@ -1,0 +1,8 @@
+title: Jeff-a-holland.GitHub.io
+description: Resume formats for Jeff A Holland
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
