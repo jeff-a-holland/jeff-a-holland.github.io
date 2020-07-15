@@ -20,7 +20,7 @@ Skills
 Certifications
 --------------
 **CISSP** [#53589](https://www.isc2.org/MemberVerification?LastName=holland&MemberNumber=53589) -
-**GPYC** [Current](https://www.giac.org/certified-pr]ofessional/jeff-holland/100528) -
+**GPYC** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) -
 **GCUX** [Current](https://www.giac.org/certified-professional/jeff-holland/100528) <br>
 
 Publications
