@@ -105,9 +105,9 @@ Sr. Security Engineer / Software Developer
 
 Education
 ---------
-**Master of Science (M.S.), Mathematics, New Mexico State University (2006)**
+**Master of Science (M.S.), Mathematics, New Mexico State University (1996)**
 - Coursework in Algebra, Real and Complex Analysis, Statistics, Linear Programming
 - Emphasis in Linear Programming and Optimization
 
-**Bachelor of Science (B.S), Mathematics, California State University, San Marcos (2004)**
+**Bachelor of Science (B.S), Mathematics, California State University, San Marcos (1994)**
 - Coursework in Algebra, Analysis, Discrete Mathematics, Statistics and Probability, Number Theory, C Programming, Unix
