@@ -26,6 +26,7 @@ Certifications
 Publications
 ------------
 **SANS GIAC Gold Papers:**<br>
+[GPYC - Python Coder](https://www.sans.org/reading-room/whitepapers/tools/chaining-vulnerability-scans-intenable-io-python-39730)<br>
 [GCUX - Linux/UNIX Security Adminstration](https://www.giac.org/paper/gcux/168/audit-gauntlet-55-firewall-running-solaris-26-bind-823-rel/100528) <br>
 [GCIH - Hacker Exploits and Incident Handling](https://www.giac.org/paper/gcih/178/cgi-backdoor/100528) <br>
 [GCIA - Intrusion Detection](https://www.dropbox.com/s/pfavxreymt3b14r/Jeff_A_Holland_GCIA.pdf?dl=0) <br>
