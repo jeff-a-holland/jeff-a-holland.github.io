@@ -7,7 +7,6 @@ Skills
 ------
 **Programming:** Python, Perl, Bash, RegEx <br>
 **Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence <br>
-**SOAR:** Palo Alto XSOAR (Demisto)<br>
 **Cloud:** Amazon AWS, Microsoft Azure <br>
 **SIEM:** QRadar, SumoLogic, ArcSight ESM, AlienVault <br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
@@ -42,10 +41,10 @@ Work Experience
 ---------------
 **Baker & Mckenzie - Chicago, IL - (Feb 2017 - Present)**
 Security Architect (SOAR)
-- Migrated on-prem Vulnerability Assessment application to the cloud-based version. Utilized the REST API to fully automated creation, deletion and updates of all resources using Python playbooks for a global enterprise of 20,000+ assets and 200+ scan definitions.
+- Migrated on-prem Vulnerability Assessment application (Tenable SC) to the cloud-based version (Tenable IO). Utilized the REST API to fully automated creation, deletion and updates of all resources using Python playbooks for a global enterprise of 20,000+ assets and 200+ scan definitions.
 - Wrote Python scripts to pull data from the vulnerability assessment applications, parse based on office location/application, and create tickets for system owners where the systems were in scope for ISO 27001. Application kept a state table to prevent duplication of tickets, and removed entries from the state table based on PluginID and IP address once the vulnerability was mitigated.
 - Wrote Python scripts to pull data from the vulnerability assessment applications and report severity metrics for all repositories in the enterprise. Automated creation of a quarterly report in Excel format using the Python Library XLSXWriter.
-- Federated single-server SIEM deployment to have multi-appliance architecture.
+- Federated single-server SIEM deployment (QRadar) to have multi-appliance architecture.
 - Created and maintained a security metrics schema for all security products in their native format. Metrics were parsed with Python scripts into the common schema and imported into the GRC application for visualization and analysis.
 - Mentored IR (Incident Response) analysts in their roles and on technologies such as Vulnerability Assessment and SIEM to serve as backup SME's (Subject Matter Experts).
 
