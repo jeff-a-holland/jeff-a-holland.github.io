@@ -1,4 +1,4 @@
-Jeff Holland - Security Architect (SOAR)
+Jeff Holland - Senior Security Engineer
 ================================
 
 ### [Resume](https://github.com/jeff-a-holland/jeff-a-holland.github.io/raw/master/jeff.a.holland-resume.pdf) - [LinkedIn](https://www.linkedin.com/in/jeff-holland-0544a42/) - [GitHub](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
@@ -7,8 +7,8 @@ Skills
 ------
 **Programming:** Python, Perl, Bash, RegEx <br>
 **Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence <br>
-**Cloud:** Amazon AWS, Microsoft Azure <br>
-**SIEM:** QRadar, SumoLogic, ArcSight ESM, AlienVault <br>
+**Cloud:** Amazon AWS
+**SIEM:** Exabeam, QRadar, SumoLogic, ArcSight ESM, AlienVault <br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
 **Networking:** TCP/IP, TCPdump, Netflow <br>
 **EDR:** CarbonBlack (Response/Protect), SentinelOne <br>
@@ -39,7 +39,11 @@ Publications
 
 Work Experience
 ---------------
-**Baker & Mckenzie - Chicago, IL - (Feb 2017 - Present)**
+**BAM (Balyasny Asset Management) - Chicago, IL - (Sept 2020 - Present)**
+Senior Security Engineer
+- SIEM, Vulnerability Management, Cloud (AWS), Software Development (Python)
+
+**Baker & Mckenzie - Chicago, IL - (Feb 2017 - Aug 2020)**
 Security Architect (SOAR)
 - Migrated on-prem Vulnerability Assessment application (Tenable SC) to the cloud-based version (Tenable IO). Utilized the REST API to fully automated creation, deletion and updates of all resources using Python playbooks for a global enterprise of 20,000+ assets and 200+ scan definitions.
 - Wrote Python scripts to pull data from the vulnerability assessment applications, parse based on office location/application, and create tickets for system owners where the systems were in scope for ISO 27001. Application kept a state table to prevent duplication of tickets, and removed entries from the state table based on PluginID and IP address once the vulnerability was mitigated.
