@@ -5,13 +5,13 @@ Jeff Holland - Senior Security Engineer
 
 Skills
 ------
-**Programming:** Python, Perl, Bash, RegEx <br>
+**Programming:** Python, Powershelll, Perl, Bash, RegEx <br>
 **Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence <br>
 **Cloud:** Amazon AWS
 **SIEM:** Exabeam, QRadar, SumoLogic, ArcSight ESM, AlienVault <br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
 **Networking:** TCP/IP, TCPdump, Netflow <br>
-**EDR:** CarbonBlack (Response/Protect), SentinelOne <br>
+**EDR:** Crowdstrike, CarbonBlack (Response/Protect), SentinelOne <br>
 **Operating Systems:** Linux, Windows, Mac OSX <br>
 **Forensics:** FTK <br>
 **Misc:** Security Metrics (RSA Archer), Security Compliance Frameworks (ISO 27002, SOC2 Type II, HIPAA) <br>
