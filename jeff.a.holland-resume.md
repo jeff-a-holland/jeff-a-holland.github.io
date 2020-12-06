@@ -5,7 +5,7 @@ Jeff Holland - Senior Security Engineer
 
 Skills
 ------
-**Programming:** Python, Powershell, Perl, Bash, RegEx <br>
+**Programming:** Python (Functional/OO), Powershell, Perl, Bash, RegEx <br>
 **Other:** Git/GitHub, REST APIs, Security Architecture, JIRA, Confluence <br>
 **Cloud:** Amazon AWS (EC2, Lambda/Chalice, SES, SecretsManager, IAM)
 **SIEM:** Exabeam, QRadar, SumoLogic, MicroFocus/ArcSight ESM<br>
