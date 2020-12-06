@@ -1,14 +1,14 @@
 Jeff Holland - Senior Security Engineer
 ================================
 
-### [Resume](https://github.com/jeff-a-holland/jeff-a-holland.github.io/raw/master/jeff.a.holland-resume.pdf) - [LinkedIn](https://www.linkedin.com/in/jeff-holland-0544a42/) - [GitHub](https://github.com/jeff-a-holland?tab=repositories) - jeff.a.holland@gmail.com
+### [https://jeff-a-holland.github.io](https://jeff-a-holland.github.io/)  -  jeff.a.holland@gmail.com
 
 Skills
 ------
 **Programming:** Python, Powershell, Perl, Bash, RegEx <br>
-**Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence <br>
-**Cloud:** Amazon AWS
-**SIEM:** Exabeam, QRadar, SumoLogic, ArcSight ESM, AlienVault <br>
+**Other:** Git/GitHub, REST APIs, Security Architecture, JIRA, Confluence <br>
+**Cloud:** Amazon AWS (EC2, Lambda/Chalice, SES, SecretsManager, IAM)
+**SIEM:** Exabeam, QRadar, SumoLogic, MicroFocus/ArcSight ESM<br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
 **Networking:** TCP/IP, TCPdump, Netflow <br>
 **EDR:** Crowdstrike, CarbonBlack (Response/Protect), SentinelOne <br>
@@ -41,16 +41,18 @@ Work Experience
 ---------------
 **BAM (Balyasny Asset Management) - Chicago, IL - (Sept 2020 - Present)**
 Senior Security Engineer
-- SIEM, Vulnerability Management, Cloud (AWS), Software Development (Python)
+- Software Development (Python and Powershell)
+- SIEM content development and administration
+- Vulnerability management automation
+- Cloud (Use of AWS Lambda/Chalice for running serverless automation code)
 
 **Baker & Mckenzie - Chicago, IL - (Feb 2017 - Aug 2020)**
 Security Architect (SOAR)
 - Migrated on-prem Vulnerability Assessment application (Tenable SC) to the cloud-based version (Tenable IO). Utilized the REST API to fully automated creation, deletion and updates of all resources using Python playbooks for a global enterprise of 20,000+ assets and 200+ scan definitions.
-- Wrote Python scripts to pull data from the vulnerability assessment applications, parse based on office location/application, and create tickets for system owners where the systems were in scope for ISO 27001. Application kept a state table to prevent duplication of tickets, and removed entries from the state table based on PluginID and IP address once the vulnerability was mitigated.
-- Wrote Python scripts to pull data from the vulnerability assessment applications and report severity metrics for all repositories in the enterprise. Automated creation of a quarterly report in Excel format using the Python Library XLSXWriter.
-- Federated single-server SIEM deployment (QRadar) to have multi-appliance architecture.
-- Created and maintained a security metrics schema for all security products in their native format. Metrics were parsed with Python scripts into the common schema and imported into the GRC application for visualization and analysis.
-- Mentored IR (Incident Response) analysts in their roles and on technologies such as Vulnerability Assessment and SIEM to serve as backup SME's (Subject Matter Experts).
+- Wrote Python scripts to pull data from the Tenable IO and SC, parse based on office location/application, and create tickets for system owners where the systems were in scope for ISO 27001. Application kept a state table to prevent duplication of tickets, and removed entries from the state table based on PluginID and IP address once the vulnerability was mitigated.
+- Wrote Python scripts to pull data from the vulnerability assessment application and report severity metrics for all repositories in the enterprise. Automated creation of a quarterly report in Excel format using the Python Library XLSXWriter.
+ - Created and maintained a security metrics schema for all security products in their native format. Metrics were parsed with Python scripts into the common schema and imported into the GRC application for visualization and analysis.
+- Federated single-server SIEM deployment (QRadar) to have multiple-appliance architecture.
 
 **Civis Analytics - Chicago, IL - (Aug 2015 - Feb 2017)**
 Security Engineer
@@ -69,42 +71,29 @@ Security Engineer
 
 **Emmi Solutions - Chicago, IL - (2014 - 2015)**
 Security Engineer
-- Utilized AlienVault SIEM and OSSEC to monitor network for incidents.
-- Interfaced with clients on security audits and questionnaires.
-- Worked with General Counsel on security-related initiatives.
+- Lead all security and compliance projects while embedded in the DevOps team.
+- Chose and deployed security technologies to product company data and ensure SOC 2 Type II certification, including:  SumoLogic (Log Consolidation and Analysis),  SentinelOne (EDR), OSSEC (HIDS), AWS Inspector (Cloud Vulnerability Analysis), Nessus (On-Prem Vulnerability Analysis), and JAMF Pro (Endpoint Security Policy Enforcement).
 
 **HCSC (BC/BS of IL, TX, NM, OK, MT) - Chicago, IL - (2013 - 2014)**
-Security Architect (SIEM)
 - Security architect with enterprise responsibility for the ArcSight ESM deployment.
-- Wrote custom connector parsers, added new log feeds, interfaced with SOC team on SIEM updates and requests.
+- Wrote custom connector parsers, added new log feeds, and interfaced with SOC team on SIEM updates and requests.
 
-**Leidos/SAIC - Chicago, IL/San Diego, CA - (2011 - 2013)**
-Sr. Security Engineer
-- Occasional consulting on ArcSight to clients of the MSSP business unit at Leidos.
-- Administered ArcSight ESM, including:
-   - Writing custom connectors.
-   - Adding new log feeds as new clients were on boarded.
-   - As part of a two-person project team, migrated a multi-terabyte ArcSight ESM Oracle instance to new hardware using SQL and Perl scripts.
+**Leidos/SAIC - Chicago, IL/San Diego, CA - (2011 - 2013) Sr. Security Engineer**
+- Administered ArcSight ESM, including: Writing custom connectors and add new log feeds as new clients were on-boarded. Occasional consulting on ArcSight to clients of the MSSP business unit at Leidos.
+- As part of a two-person project team, migrated a multi-terabyte ArcSight ESM Oracle instance to new hardware using SQL and Perl scripts.
 
+**Northwestern University - Evanston, IL - (2007 - 2011) Security Vulnerability Analyst**
+- Created and operated the vulnerability analysis program used as a resource to any University department that required assistance.
+- Wrote a custom threat intelligence application in Perl to use threat intelligence signatures and Netflow and NAC logs to identify malware infected hosts on campus.
 
-**Northwestern University - Evanston, IL - (2007 - 2011)**
-Security Vulnerability Analyst
-- Created and operated the vulnerability analysis program used a resource to any University department that required assistance.
-- Wrote a custom threat intelligence application in Perl to use threat intelligence signatures and Netflow/NAC logs to identify malware infected hosts on campus.
-
-**ArcSight, Chicago - IL/Cupertino, CA - (2005 - 2007)**
-Security Consultant
+**ArcSight, Chicago - IL/Cupertino, CA - (2005 - 2007) Security Consultant**
 - Security consulting on ArcSight ESM installation, administration, customization and training to customers.
 
-**Invacare - Elyria, OH - (2004 - 2005)**
-Network Engineer
-- Various network engineer duties (switching, routing, etc).
-- Wrote custom code in Perl to automate the auditing of enterprise switches for switch-port to hostname assignments.
+**Invacare - Elyria, OH - (2004 - 2005) Network Engineer**
+- Various network engineer duties (switching, routing, etc).  Wrote custom code in Perl to automate the auditing of enterprise switches for switch-port to hostname assignments.
 
-**Raytheon - Garland, TX - (1996 - 2004)**
-Sr. Security Engineer / Software Developer
-- Various security engineering duties to include:
-   - Log analysis, intrusion detection, security architecture, security product evaluation
+**Raytheon - Garland, TX - (1996 - 2004) Sr. Security Engineer / Software Developer**
+- Various security engineering duties to include: Log analysis, intrusion detection, security architecture, security product evaluation
 - Software developer in the algorithms optimization group
 
 Education
