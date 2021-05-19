@@ -8,7 +8,7 @@ Skills
 **Programming:** Python, Powershelll, Perl, Bash, RegEx <br>
 **Other:** Git/GitHub, REST API, Security Architecture, ServiceNow, JIRA, Confluence <br>
 **Cloud:** Amazon AWS
-**SIEM:** Exabeam, QRadar, SumoLogic, ArcSight ESM, AlienVault <br>
+**SIEM:** Splunk, Exabeam, QRadar, SumoLogic, ArcSight ESM, AlienVault <br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
 **Networking:** TCP/IP, TCPdump, Netflow <br>
 **EDR:** Crowdstrike, CarbonBlack (Response/Protect), SentinelOne <br>
