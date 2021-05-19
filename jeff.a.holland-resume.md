@@ -7,7 +7,7 @@ Skills
 ------
 **Programming:** Python (Functional/OO), Powershell, Perl, Bash, RegEx <br>
 **Other:** Git/GitHub, REST APIs, Security Architecture, JIRA, Confluence <br>
-**Cloud:** Amazon AWS (EC2, Lambda/Chalice, SES, SecretsManager, IAM)
+**Cloud:** Amazon AWS (EC2, Lambda/Chalice, SES, SecretsManager, IAM)<br>
 **SIEM:** Splunk, Exabeam, QRadar, SumoLogic, MicroFocus/ArcSight ESM<br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
 **Networking:** TCP/IP, TCPdump, Netflow <br>
