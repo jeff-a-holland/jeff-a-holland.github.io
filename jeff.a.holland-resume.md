@@ -1,4 +1,4 @@
-Jeff Holland - Senior Security Engineer
+Jeff Holland - Lead Security Engineer
 ================================
 
 ### [https://jeff-a-holland.github.io](https://jeff-a-holland.github.io/)  -  jeff.a.holland@gmail.com
@@ -39,7 +39,14 @@ Publications
 
 Work Experience
 ---------------
-**BAM (Balyasny Asset Management) - Chicago, IL - (Sept 2020 - Present)**
+**Codecov - Chicago, IL - (Sept 2021 - Present)**
+Lead Security Engineer
+- Software Development (Python)
+- SIEM, EDR, Vulnerability Management
+- Cloud (GCP)
+- Compliance (SOC2)
+
+**BAM (Balyasny Asset Management) - Chicago, IL - (Sept 2020 - Sept 2021)**
 Senior Security Engineer
 - Software Development (Python and Powershell)
 - SIEM content development and administration
@@ -51,7 +58,6 @@ Security Architect (SOAR)
 - Migrated on-prem Vulnerability Assessment application (Tenable SC) to the cloud-based version (Tenable IO). Utilized the REST API to fully automated creation, deletion and updates of all resources using Python playbooks for a global enterprise of 20,000+ assets and 200+ scan definitions.
 - Wrote Python scripts to pull data from the Tenable IO and SC, parse based on office location/application, and create tickets for system owners where the systems were in scope for ISO 27001. Application kept a state table to prevent duplication of tickets, and removed entries from the state table based on PluginID and IP address once the vulnerability was mitigated.
 - Wrote Python scripts to pull data from the vulnerability assessment application and report severity metrics for all repositories in the enterprise. Automated creation of a quarterly report in Excel format using the Python Library XLSXWriter.
- - Created and maintained a security metrics schema for all security products in their native format. Metrics were parsed with Python scripts into the common schema and imported into the GRC application for visualization and analysis.
 - Federated single-server SIEM deployment (QRadar) to have multiple-appliance architecture.
 
 **Civis Analytics - Chicago, IL - (Aug 2015 - Feb 2017)**
