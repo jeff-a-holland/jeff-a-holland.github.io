@@ -11,7 +11,7 @@ Skills
 **SIEM:** Splunk, Exabeam, QRadar, SumoLogic, MicroFocus/ArcSight ESM<br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
 **Networking:** TCP/IP, TCPdump, Netflow <br>
-**EDR:** Crowdstrike, CarbonBlack (Response/Protect), SentinelOne <br>
+**EDR:** SentinelOne, Crowdstrike, CarbonBlack (Response/Protect) <br>
 **Operating Systems:** Linux, Windows, Mac OSX <br>
 **Forensics:** FTK <br>
 **Misc:** Security Metrics (RSA Archer), Security Compliance Frameworks (ISO 27001, SOC2 Type II, HIPAA) <br>
@@ -41,10 +41,13 @@ Work Experience
 ---------------
 **Codecov - Chicago, IL - (Sept 2021 - Present)**
 Lead Security Engineer
-- Software Development (Python)
-- SIEM, EDR, Vulnerability Management
+- Software Development (Python) to achieve security automation via API’s
+- SIEM, EDR, Vulnerability Management (Elastic/ELK, Tenable IO)
+- SAST (Snyk Code/Container)
+- MDM (JumpCloud)
 - Cloud (GCP)
 - Compliance (SOC2)
+
 
 **BAM (Balyasny Asset Management) - Chicago, IL - (Sept 2020 - Sept 2021)**
 Senior Security Engineer
