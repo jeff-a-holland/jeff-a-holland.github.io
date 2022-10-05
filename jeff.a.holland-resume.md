@@ -41,13 +41,13 @@ Work Experience
 ---------------
 **Codecov - Chicago, IL - (Sept 2021 - Present)**
 Lead Security Engineer
-- Software Development (Python) to achieve security automation via API’s
-- SIEM, EDR, Vulnerability Management (Elastic/ELK, Tenable IO)
-- SAST (Snyk Code/Container)
-- MDM (JumpCloud)
-- Cloud (GCP)
-- Compliance (SOC2)
-
+- Software Development (Python) to achieve security automation using product API’s
+- SIEM, EDR, Vulnerability Management (Elastic/ELK, SentinelOne, Tenable IO)
+- SAST (Snyk Code/Container), GitHub Dependabot
+- MDM (JumpCloud) including full automation of employee laptop configs and installation of security tooling/agents
+- Cloud (use of GCP Secrets Manager and Compute Engine for security automation work)
+- Compliance (SOC2) including coordination with Sales team on client calls
+- Manage security team of one engineer and one analyst
 
 **BAM (Balyasny Asset Management) - Chicago, IL - (Sept 2020 - Sept 2021)**
 Senior Security Engineer
