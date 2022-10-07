@@ -11,8 +11,8 @@ Skills
 **SIEM:** Splunk, Exabeam, QRadar, SumoLogic, MicroFocus/ArcSight ESM<br>
 **Vulnerability Analysis:** Tenable IO, Tenable SC, AWS Inspector <br>
 **Networking:** TCP/IP, TCPdump, Netflow <br>
-**EDR:** SentinelOne, Crowdstrike, CarbonBlack (Response/Protect) <br>
-**Operating Systems:** Linux, Windows, Mac OSX <br>
+**EDR:** SentinelOne, Crowdstrike, Elastic XDR <br>
+**Operating Systems:** Linux, Mac OSX, Windows <br>
 **Forensics:** FTK <br>
 **Misc:** Security Metrics (RSA Archer), Security Compliance Frameworks (ISO 27001, SOC2 Type II, HIPAA) <br>
 
@@ -41,13 +41,13 @@ Work Experience
 ---------------
 **Codecov - Chicago, IL - (Sept 2021 - Present)**
 Lead Security Engineer
-- Software Development (Python) to achieve security automation using product API’s
+- Software Development (Python) to achieve security automation using product REST and GraphQL API’s
 - SIEM, EDR, Vulnerability Management (Elastic/ELK, SentinelOne, Tenable IO)
 - SAST (Snyk Code/Container), GitHub Dependabot
-- MDM (JumpCloud) including full automation of employee laptop configs and installation of security tooling/agents
+- Migration of the MDM product from Rippling to JumpCloud. Used JumpCloud to achieve full automation of employee laptop configs and installation of security tooling/agents.
 - Cloud (use of GCP Secrets Manager and Compute Engine for security automation work)
 - Compliance (SOC2) including coordination with Sales team on client calls
-- Manage security team of one engineer and one analyst
+- Management of the security team of one engineer and one analyst
 
 **BAM (Balyasny Asset Management) - Chicago, IL - (Sept 2020 - Sept 2021)**
 Senior Security Engineer
@@ -67,21 +67,14 @@ Security Architect (SOAR)
 Security Engineer
 - Lead all security and compliance projects while embedded in the DevOps team.
 - Lead the effort to obtain SOC 2 Type II certification.
-- Chose and deployed security technologies to product company data and ensure SOC 2 Type II certification, including:
-   - SumoLogic (Log Consolidation and Analysis)
-   - SentinelOne (EDR)
-   - OSSEC (HIDS)
-   - AWS Inspector (Cloud Vulnerability Analysis)
-   - Nessus (On-Prem Vulnerability Analysis)
-   - JAMF Pro (Endpoint Security Policy Enforcement)
+- Chose, deployed and administered security technologies to product company data and ensure SOC 2 Type II certification, including:
+   - SumoLogic, SentinelOne, OSSEC, AWS Inspector, Nessus, JAMF Pro MDM
 - Served as the primary interface for all clients concerning security, audits, compliance questionnaires, etc.
-- Worked with General Counsel to provide technical security expertise on contract negotiations.
-- Performed various security related tasks as required
 
 **Emmi Solutions - Chicago, IL - (2014 - 2015)**
 Security Engineer
-- Lead all security and compliance projects while embedded in the DevOps team.
-- Chose and deployed security technologies to product company data and ensure SOC 2 Type II certification, including:  SumoLogic (Log Consolidation and Analysis),  SentinelOne (EDR), OSSEC (HIDS), AWS Inspector (Cloud Vulnerability Analysis), Nessus (On-Prem Vulnerability Analysis), and JAMF Pro (Endpoint Security Policy Enforcement).
+- Utilized AlienVault SIEM and OSSEC to monitor for incidents.
+- Interfaced with clients on security audits and questionnaires.  Worked with General Counsel on security-related initiatives.
 
 **HCSC (BC/BS of IL, TX, NM, OK, MT) - Chicago, IL - (2013 - 2014)**
 - Security architect with enterprise responsibility for the ArcSight ESM deployment.
