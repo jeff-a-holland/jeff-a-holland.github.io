@@ -1,4 +1,4 @@
-Jeff Holland - Lead Security Engineer @Codecov
+Jeff Holland - Lead Security Engineer - Codecov @ Sentry.io
 ================================
 
 ### [https://jeff-a-holland.github.io](https://jeff-a-holland.github.io/)  -  jeff.a.holland@gmail.com
