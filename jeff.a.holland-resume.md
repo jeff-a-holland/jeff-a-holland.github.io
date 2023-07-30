@@ -39,8 +39,10 @@ Publications
 
 Work Experience
 ---------------
-**Codecov - Chicago, IL - (Sept 2021 - Present)**
-Lead Security Engineer
+**Sentry.io / Codecov - Chicago, IL - (Sept 2021 - Present)**
+
+    NOTE: Codecov was acquired by Sentry.io in November 2022
+Lead Security Engineer - Codecov
 - Software Development (Python) to achieve security automation using product REST and GraphQL API’s
 - SIEM, EDR, Vulnerability Management (Elastic/ELK, SentinelOne, Tenable IO)
 - SAST (Snyk Code/Container), GitHub Dependabot
