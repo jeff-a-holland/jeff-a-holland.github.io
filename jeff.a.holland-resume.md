@@ -45,7 +45,9 @@ Work Experience
 Lead Security Engineer - Codecov
 - Software Development (Python) to achieve security automation using product REST and GraphQL API’s
 - SIEM, EDR, Vulnerability Management (Elastic/ELK, SentinelOne, Tenable IO)
-- SAST (Snyk Code/Container), GitHub Dependabot
+- SAST (Snyk Code/Container), GitHub Dependabot / Code Scanning / Secret Scanning
+- HackerOne Bug Bounty management
+- Automation of Tenable/Nessus and GitHub vulnerabilities into Jira tickets and GitHub issues for triage and resolution
 - Migration of the MDM product from Rippling to JumpCloud. Used JumpCloud to achieve full automation of employee laptop configs and installation of security tooling/agents.
 - Cloud (use of GCP Secrets Manager and Compute Engine for security automation work)
 - Compliance (SOC2) including coordination with Sales team on client calls
