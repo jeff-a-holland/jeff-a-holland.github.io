@@ -44,9 +44,9 @@ Work Experience
     NOTE: Codecov was acquired by Sentry.io in November 2022
 Lead Security Engineer - Codecov
 - Software Development (Python) to achieve security automation using product REST and GraphQL API’s
-- SIEM, EDR, Vulnerability Management (Elastic/ELK, SentinelOne, Tenable IO)
+- SIEM, EDR, Vulnerability Management (Elastic/ELK, SentinelOne, Crowdstrike, Tenable IO)
 - SAST (Snyk Code/Container), GitHub Dependabot / Code Scanning / Secret Scanning
-- HackerOne Bug Bounty management
+- HackerOne Bug Bounty management and external penetration testing engagement management
 - Automation of Tenable/Nessus and GitHub vulnerabilities into Jira tickets and GitHub issues for triage and resolution
 - Migration of the MDM product from Rippling to JumpCloud. Used JumpCloud to achieve full automation of employee laptop configs and installation of security tooling/agents.
 - Cloud (use of GCP Secrets Manager and Compute Engine for security automation work)
