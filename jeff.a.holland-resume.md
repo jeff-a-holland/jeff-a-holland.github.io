@@ -34,8 +34,8 @@ Publications
 [Chaining Vulnerability Scans in Tenable IO Using Python](https://github.com/jeff-a-holland/Chain.py-Tenable-IO-Chained-Scanning-Application/blob/master/documentation/Chaining_Vulnerability_Scans_in_Tenable_IO_Using_Python.md) <br>
 
 **HP Protect Conference Presentations:**<br>
-[Extraction and Long Term Storage of ArcSight ESM Connector Statistics](https://www.dropbox.com/s/zpwyyddya847q01/Extraction%20and%20long-term%20storage%20of%20HP%20ArcSight%20ESM%20Connector%20statistics.pdf?dl=0) <br>
-[Leveraging APT Indicator Feeds with Enterprise SIEM](https://www.dropbox.com/s/vax7oqhlq4fram7/Leverage_APT_SIEM.pdf?dl=0) <br>
+[Extraction and Long Term Storage of ArcSight ESM Connector Statistics](https://www.dropbox.com/scl/fi/80zmffx3h6fuvx0yk60z5/Extraction-and-long-term-storage-of-HP-ArcSight-ESM-Connector-statistics.pdf?rlkey=5vof5fk1a4ghmdghcwt8wj3d2&st=ylifye09&dl=0) <br>
+[Leveraging APT Indicator Feeds with Enterprise SIEM](https://www.dropbox.com/scl/fi/ekodbburyz57c9yyreunw/Leverage_APT_SIEM.pdf?rlkey=no7m3as8j6fct868jqvq5tviw&st=zhho7vk8&dl=0) <br>
 
 Work Experience
 ---------------
